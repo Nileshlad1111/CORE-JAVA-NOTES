@@ -1,0 +1,63 @@
+
+ ***Constructor**
+
+ Constructor is a block of code that initializes the newly created object.
+ A constructor resembles an instance method in java but it’s not a method as it doesn’t have a return type.
+ In short constructor and method are different(More on this at the end of this guide). People often refer
+ constructor as special type of method in Java.
+
+Constructor has same name as the class and looks like this in a java code.
+
+public class MyClass{
+   //This is the constructor
+   MyClass(){
+   }
+   ..
+}
+
+Types of Constructors
+There are three types of constructors:
+1.Default,
+2.No-arg constructor and Parameterized.
+
+1.Default constructor
+ If you do not implement any constructor in your class, Java compiler inserts a default constructor into your code on your
+ behalf. This constructor is known as default constructor. You would not find it in your source code(the java file) as
+ it would be inserted into the code during compilation and exists in .class file.
+
+ no-arg constructor:
+ Constructor with no arguments is known as no-arg constructor. The signature is same as default constructor, however body
+ can have any code unlike default constructor where the body of the constructor is empty.
+
+ eg.
+ public Demo() { }
+
+ 2.Parameterized constructor
+   Constructor with arguments(or you can say parameters) is known as Parameterized constructor.
+
+   **keyword of Super()
+     Whenever a child class constructor gets invoked it implicitly invokes the constructor of parent class. You can also
+     say that the compiler inserts a super(); statement at the beginning of child class constructor.
+
+ ******************************************************************************************************************************************
+ Quick Recap
+ 1.Every class has a constructor whether it’s a normal class or a abstract class.
+ 2.Constructors are not methods and they don’t have any return type.
+ 3.Constructor name should match with class name .
+ 4.Constructor can use any access specifier, they can be declared as private also.
+  Private constructors are possible in java but there scope is within the class only.
+ 5.Like constructors method can also have name same as class name, but still they have return type, though which we can
+ identify them that they are methods not constructors.
+ 6.If you don’t implement any constructor within the class, compiler will do it for.
+ 7.this() and super() should be the first statement in the constructor code. If you don’t mention them, compiler does
+ it for you accordingly.
+ 8.Constructor overloading is possible but overriding is not possible. Which means we can have overloaded constructor in
+ our class but we can’t override a constructor.
+ 9.Constructors can not be inherited.
+ 10.If Super class doesn’t have a no-arg(default) constructor then compiler would not insert a default constructor in
+ child class as it does in normal scenario.
+ 11.Interfaces do not have constructors.
+ 12.Abstract class can have constructor and it gets invoked when a class, which implements interface, is instantiated.
+ (i.e. object creation of concrete class).
+ 13.A constructor can also invoke another constructor of the same class – By using this(). If you want to invoke a parameterized
+ constructor then do it like this: this(parameter list).
