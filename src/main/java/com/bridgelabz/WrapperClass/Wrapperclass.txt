@@ -1,0 +1,18 @@
+Description
+Each of Java's eight primitive data types has a class dedicated to it. These are known as wrapper classes because they
+ "wrap" the primitive data type into an object of that class. The wrapper classes are part of the java.lang package, which
+ is imported by default into all Java programs.
+
+The wrapper classes in java servers two primary purposes.
+
+To provide a mechanism to ‘wrap’ primitive values in an object so that primitives can do activities reserved for the objects
+like being added to ArrayList, Hashset, HashMap etc. collection.
+To provide an assortment of utility functions for primitives like converting primitive types to and from string objects,
+converting to various bases like binary, octal or hexadecimal, or comparing various objects.
+The following two statements illustrate the difference between a primitive data type and an object of a wrapper class:
+
+int  x = 25;
+Integer  y = new Integer(33);
+The first statement declares an int variable named x and initializes it with the value 25. The second statement instantiates
+an Integer object. The object is initialized with the value 33 and a reference to the object is assigned to the object variable
+ y.
