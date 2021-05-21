@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a176bbd7-4941-4058-8d7a-6841d5d3e553" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BootCamp/JAVA_BASIC/JAVA_BASIC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmployeeWageComputation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/Fellowship-Pratices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fellowship-Pratices/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JVM/src/main/java/com/bridgelabz/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/build/classes/java/main/com/bridgelabz/LineComparison.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Line_Comparison_Problem/src/main/java/com/bridgelabz/LineComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Object-oriented-programming-System-(OOPs)/src/main/java/com/bridgelabz/OOPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SANKE_AND_LADDER_PROBLEM/src/main/java/com/bridgelabz/SnakeAndLadderGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fellowship/fellowship.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1spKeEZ4n6qbRoupPAGx7DnYSZZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WrapperDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.WrapperClass.WrapperDemo" />
+      <module name="CORE-JAVA-NOTES.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.WrapperClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WrapperDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a176bbd7-4941-4058-8d7a-6841d5d3e553" name="Default Changelist" comment="" />
+      <created>1621564186382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621564186382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
